@@ -8,3 +8,4 @@ _site
 # Ruby / Bundler
 vendor/
 .bundle/
+.DS_Store
