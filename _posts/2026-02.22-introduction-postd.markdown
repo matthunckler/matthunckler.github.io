@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Welcome to Jekyll!"
+date:   2019-03-26 17:56:19 -0700
+categories: jekyll update
+---
+This is my introductory post. Eventually I want to post content here. I wonder if I can post pictures and code nippets? I'd like to post walk-throughs and guides on what I'm working on professionally.
+
+ - Matt
